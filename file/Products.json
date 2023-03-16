@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"title": "auto",
+		"description": "auto deportivo",
+		"code": 22342323,
+		"price": 50,
+		"status": true,
+		"stock": 10,
+		"category": "autos",
+		"thumbnail": "http://img_auto"
+	},
+	{
+		"id": 2,
+		"title": "moto",
+		"description": "moto deportiva",
+		"code": 2234323,
+		"price": 50,
+		"status": true,
+		"stock": 10,
+		"category": "moto",
+		"thumbnail": "http://img_auto"
+	},
+	{
+		"id": 3,
+		"title": "bici",
+		"description": "bmx",
+		"code": 22323,
+		"price": 50,
+		"status": true,
+		"stock": 10,
+		"category": "bici",
+		"thumbnail": "http://img_auto"
+	}
+]
